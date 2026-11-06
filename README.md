@@ -8,7 +8,6 @@ Two end-to-end NLP systems in one repository: a **Seq2Seq LSTM with attention** 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-T5--Base-FFD21E?logo=huggingface&logoColor=black)
 ![Status](https://img.shields.io/badge/status-academic%20prototype-blue)
 
-> **Status:** research/academic prototype. The repository contains the training and inference notebooks. A graphical interface is designed but not yet implemented.
 
 ---
 
@@ -566,15 +565,6 @@ Planned controls: transcript upload / paste box, question box, context box, **Ge
 
 ---
 
-## Credits
-
-- **Author:** Piyush
-- **Programme:** B.Tech, Computer Science and Engineering (AI & ML)
-- **Institution:** K.R. Mangalam University
-- **Faculty mentor:** Mr. Aditya Chauhan
-- **Academic year:** 2026–2027
-
-Built as the capstone submission for *Project 12: Question Answering System* and *Project 18: Meeting or Lecture Summarisation*.
 
 ### References
 
